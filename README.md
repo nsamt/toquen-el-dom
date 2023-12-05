@@ -64,7 +64,7 @@ Estas instrucciones les guiarán en el proceso de instalación del proyecto para
  [Isadora Matias](https://github.com/IsadoraMatias)
 
 
- [Isiah](https://github.com/isiahzac)
+ [Isiah Zacarias](https://github.com/isiahzac)
 
 
  [Pamela Baez](https://github.com/pamelab182)
