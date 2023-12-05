@@ -18,6 +18,12 @@
 
 En este proyecto trabajamos en la creación de una web de una escuela de música online "Toquen el Dom". La aplicación permite a los usuarios acceder a las páginas interactivas dedicadas a tres instrumentos: piano, batería y bajo. Comenzamos con una página *HOME* con imágenes e información para atraer el interés del público, luego una página *ABOUT US* con información del equipo profesional de la escuela y finalizamos con una página general de los tres instrumentos abordados en este proyecto.
 
+## Capturas
+
+![Home](https://imgur.com/K8tZ80B.jpg)
+![Instrumentos](https://imgur.com/Sp7ssSw.jpg)
+![Piano](https://imgur.com/DaV8OXq.jpg)
+
 
 ## Tecnologías utilizadas:
 
