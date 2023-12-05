@@ -18,6 +18,12 @@
 
 }
 
+.landing-description {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
 @media (min-width: 768px) {
 	.first-section{
 		background-position: center center;
