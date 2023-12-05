@@ -82,7 +82,7 @@ body {
   #check {
     display: none;
   }
-  @media (max-width: 610px) {
+  @media (max-width: 768px) {
     .menu {
       flex-direction: column;
       align-items: center;
